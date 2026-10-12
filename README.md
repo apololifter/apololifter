@@ -7,9 +7,7 @@
 ### 🛡️ Offensive Security · Hypothesis-driven Pentesting
 
 <p>
-  <img alt="followers" src="https://img.shields.io/github/followers/apololifter?label=Follow&style=for-the-badge&color=6f42c1">
-  <img alt="repos" src="https://img.shields.io/badge/repos-12-1f6feb?style=for-the-badge">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=apololifter&style=for-the-badge&color=6f42c1&label=VIEWS">
+  <img alt="repos" src="https://img.shields.io/badge/repos-28-1f6feb?style=for-the-badge">
 </p>
 
 </div>
@@ -30,7 +28,6 @@
 | Proyecto | Qué es |
 |---|---|
 | 🗺️ [**Web-Pentesting-Technique-Atlas-WPTA**](https://github.com/apololifter/Web-Pentesting-Technique-Atlas-WPTA-) | Atlas acumulativo de **técnicas** de pentesting web (con [sitio navegable](https://apololifter.github.io/Web-Pentesting-Technique-Atlas-WPTA-/)) |
-| 🧪 [**hypotest-core**](https://github.com/apololifter/hypotest-core) | Orquestador de pentesting **guiado por hipótesis** (agentes + método científico) |
 | 🕷️ [**OMC_OWASP**](https://github.com/apololifter/OMC_OWASP) | OhMyCrawler OWASP: pipeline de recon/crawl con el stack OWASP |
 | 🎯 [**SubDorking**](https://github.com/apololifter/SubDorking) | Enumeración de subdominios + dorks + verificación |
 | 📡 [**Wifi_Pentest_Suite**](https://github.com/apololifter/Wifi_Pentest_Suite) | Suite de auditoría WiFi |
