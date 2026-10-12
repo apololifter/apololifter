@@ -68,8 +68,6 @@ Investigo la seguridad de aplicaciones web desde su **comportamiento real**: rec
 > [!NOTE]
 > **Mi objetivo** no es acumular técnicas ni depender de payloads conocidos, sino comprender **qué propiedad de seguridad debería mantenerse**, qué supuesto permite que se rompa y qué evidencia demuestra la diferencia entre el comportamiento esperado y el real.
 
-**Método:**  `observar` → `modelar` → `formular hipótesis` → `experimentar` → `falsificar / corroborar` → `actualizar el modelo`
-
 > [!WARNING]
 > ⚠️ Realizo pruebas intrusivas **únicamente con autorización** y dentro del alcance definido.
 
