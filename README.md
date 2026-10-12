@@ -52,28 +52,30 @@
 
 ## 🎯 Mi foco
 
-Investigo la seguridad de aplicaciones web desde su comportamiento real: reconstruyo flujos, identifico supuestos sobre cómo debería funcionar el sistema y formulo hipótesis para comprobar dónde sus garantías de seguridad dejan de cumplirse.
+Investigo la seguridad de aplicaciones web desde su **comportamiento real**: reconstruyo flujos, identifico supuestos sobre cómo *debería* funcionar el sistema y formulo hipótesis para comprobar dónde sus garantías de seguridad dejan de cumplirse.
 
-Mi trabajo se centra en:
+**Mi trabajo se centra en:**
 
-- **🔬 Investigación ofensiva:** análisis de comportamiento, reconstrucción de flujos, modelado de estados, identificación de invariantes y experimentación controlada para descubrir vulnerabilidades.
-- **🔐 Seguridad de aplicaciones y APIs:** autenticación, autorización, gestión de sesiones, OAuth/OIDC, SAML, JWT, IDOR/BOLA, escalada de privilegios y lógica de negocio.
-- **🧠 Análisis guiado por hipótesis:** transformar observaciones e inconsistencias en hipótesis verificables, diseñar pruebas mínimas que puedan refutarlas y actualizar el modelo del sistema según la evidencia.
-- **⚙️ Ingeniería de herramientas de seguridad:** desarrollo en Python y Bash para automatizar reconocimiento, enumeración, análisis, pruebas y generación de evidencia reproducible.
-- **🧩 Análisis de implementación:** relacionar endpoints, parámetros, código, modelos de datos y flujos de ejecución para inferir cómo funciona una aplicación y dónde pueden fallar sus controles.
-- **🛡️ Evaluación de seguridad y hardening:** auditoría de configuraciones, revisión de exposición y validación de controles mediante referencias como CIS Benchmarks.
+| | Área | En qué trabajo |
+|:--:|---|---|
+| 🔬 | **Investigación ofensiva** | Análisis de comportamiento, reconstrucción de flujos, modelado de estados, identificación de invariantes y experimentación controlada para descubrir vulnerabilidades. |
+| 🔐 | **Seguridad de aplicaciones y APIs** | Autenticación, autorización, gestión de sesiones, OAuth/OIDC, SAML, JWT, IDOR/BOLA, escalada de privilegios y lógica de negocio. |
+| 🧠 | **Análisis guiado por hipótesis** | Convertir observaciones e inconsistencias en hipótesis verificables, diseñar pruebas mínimas que puedan refutarlas y actualizar el modelo del sistema según la evidencia. |
+| ⚙️ | **Ingeniería de herramientas** | Desarrollo en **Python** y **Bash** para automatizar reconocimiento, enumeración, análisis, pruebas y generación de evidencia reproducible. |
+| 🧩 | **Análisis de implementación** | Relacionar endpoints, parámetros, código, modelos de datos y flujos de ejecución para inferir cómo funciona una aplicación y dónde fallan sus controles. |
+| 🛡️ | **Evaluación y hardening** | Auditoría de configuraciones, revisión de exposición y validación de controles mediante referencias como **CIS Benchmarks**. |
 
-Mi objetivo no es acumular técnicas ni depender de payloads conocidos, sino comprender qué propiedad de seguridad debería mantenerse, qué supuesto permite que se rompa y qué evidencia demuestra la diferencia entre el comportamiento esperado y el real.
+> [!NOTE]
+> **Mi objetivo** no es acumular técnicas ni depender de payloads conocidos, sino comprender **qué propiedad de seguridad debería mantenerse**, qué supuesto permite que se rompa y qué evidencia demuestra la diferencia entre el comportamiento esperado y el real.
 
-**Método:** observar → modelar → formular hipótesis → experimentar → falsificar o corroborar → actualizar el modelo.
+**Método:**  `observar` → `modelar` → `formular hipótesis` → `experimentar` → `falsificar / corroborar` → `actualizar el modelo`
 
-⚠️ Realizo pruebas intrusivas únicamente con autorización y dentro del alcance definido.
+> [!WARNING]
+> ⚠️ Realizo pruebas intrusivas **únicamente con autorización** y dentro del alcance definido.
 
 ---
 
 <div align="center">
-
-> ⚠️ **Pruebas autorizadas únicamente.** Recon pasivo y generación de hipótesis por defecto; lo intrusivo, con scope/ROE confirmado.
 
 <sub>«Entender el comportamiento, identificar el supuesto, falsarlo, y modelar mejor el sistema.»</sub>
 
