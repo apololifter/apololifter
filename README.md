@@ -1,4 +1,6 @@
-<h1 align="center">Eduardo Elgueta</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=header&text=Eduardo%20Elgueta&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Eduardo Elgueta" />
+</div>
 
 ---
 
