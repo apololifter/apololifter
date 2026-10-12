@@ -20,7 +20,16 @@
 - 🧰 Automatizo **recon, enumeración y explotación** (Python · Bash) sobre **Kali**.
 - 📚 Construyo herramientas **auditables y reproducibles** (no cajas negras).
 - 🧩 Me interesa el *por qué* de una vulnerabilidad: la violación de una propiedad de seguridad, no el payload suelto.
-- 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/eduardo-elgueta-856a7a1b7) · [eduardoelguetavera@gmail.com](mailto:eduardoelguetavera@gmail.com) · [+56 9 4513 1380](tel:+56945131380)
+
+<br>
+
+### 📫 Contacto
+
+<p>
+  <a href="https://www.linkedin.com/in/eduardo-elgueta-856a7a1b7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo_Elgueta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:eduardoelguetavera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/eduardoelguetavera@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="tel:+56945131380"><img alt="Telefono" src="https://img.shields.io/badge/%2B56_9_4513_1380-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
 
 ---
 
