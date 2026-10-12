@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=header&text=Eduardo%20Elgueta&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Eduardo Elgueta" />
+  <a href="https://github.com/apololifter">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1200&color=6F42C1&center=true&vCenter=true&width=520&height=90&lines=Eduardo+Elgueta" alt="Eduardo Elgueta" />
+  </a>
 </div>
 
 ---
