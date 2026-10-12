@@ -48,18 +48,20 @@
 
 ---
 
-## 📊 Estadísticas
+## 🎯 Mi foco
 
-<div align="center">
+Me dedico al **pentesting web ofensivo**, con foco en **autenticación, autorización y APIs**, y en **automatizar** el ciclo completo (recon → explotación → reporte) con evidencia reproducible.
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=apololifter&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apololifter&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+| Área | En qué trabajo |
+|---|---|
+| 🔐 **Autenticación y autorización** | OAuth/OIDC, SAML, JWT, MFA · **IDOR/BOLA**, control de acceso, escalada de privilegios |
+| 🌐 **Aplicaciones web** | OWASP Top 10 · APIs REST/GraphQL · lógica de negocio · XSS / SQLi / SSRF / deserialización |
+| 🛰️ **Recon y superficie** | Enumeración de subdominios, OSINT, dorks, descubrimiento de endpoints y parámetros |
+| ⚙️ **Automatización** | Pipelines en **Python · Bash**: recon, explotación y **generación de reportes** |
+| 🛡️ **Hardening e infra** | Benchmarks **CIS** (Fortinet · Sophos), auditoría de configuración y exposición |
+| 📡 **Redes** | Auditoría **WiFi** e infraestructura |
 
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apololifter&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
+> 🧭 Investigo **guiado por hipótesis**: entender el comportamiento → identificar el supuesto → falsarlo → modelar mejor el sistema.
 
 ---
 
