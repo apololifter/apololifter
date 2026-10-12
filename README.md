@@ -1,14 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/apololifter">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6F42C1&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Eduardo+Elgueta+%F0%9F%91%8B;Pentesting+web+guiado+por+hipotesis;Automatizo+recon%2C+explotacion+y+reporte" alt="typing" />
-</a>
-
-### 🛡️ Offensive Security · Hypothesis-driven Pentesting
-
-<p>
-  <img alt="repos" src="https://img.shields.io/badge/repos-28-1f6feb?style=for-the-badge">
-</p>
+# Eduardo Elgueta
 
 </div>
 
