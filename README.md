@@ -8,10 +8,19 @@
 
 ## 🧠 Sobre mí
 
-- 🔬 **Pentesting web** con método científico: observo comportamiento → formulo **hipótesis** → las **falsifico** con experimentos mínimos y evidencia real.
-- 🧰 Automatizo **recon, enumeración y explotación** (Python · Bash) sobre **Kali**.
-- 📚 Construyo herramientas **auditables y reproducibles** (no cajas negras).
-- 🧩 Me interesa el *por qué* de una vulnerabilidad: la violación de una propiedad de seguridad, no el payload suelto.
+Me caracterizo por la iniciativa, el aprendizaje autónomo y la curiosidad por entender cómo funcionan las cosas. Me gusta enfrentar problemas nuevos, investigar por mi cuenta y buscar soluciones sin depender de instrucciones para cada paso.
+
+Suelo abordar los problemas de forma estructurada, contrastar distintas alternativas y convertir lo aprendido en herramientas, documentación o procesos que pueda reutilizar y mejorar.
+
+Valoro la autonomía, el criterio propio y la mejora continua. También considero importante reconocer cuándo un problema necesita otra perspectiva, documentar los avances y comunicar los bloqueos relevantes para mantener el trabajo encaminado.
+
+🎓 **Formación:** Ingeniería en Informática, en titulación (2027).
+
+🏅 **Certificaciones:** eJPTv2 · Burp Suite Certified Practitioner (BSCP) · Certified Red Team Professional (CRTP) · Sophos Certified Engineer.
+
+💻 **Desarrollo:** Python · Bash · JavaScript · Git.
+
+📂 **Proyectos:** herramientas propias de seguridad, automatización, análisis de código y auditoría de configuraciones.
 
 ### 📫 Contacto
 
