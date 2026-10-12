@@ -1,8 +1,4 @@
-<div align="center">
-
-# Eduardo Elgueta
-
-</div>
+<h1 align="center">Eduardo Elgueta</h1>
 
 ---
 
@@ -12,8 +8,6 @@
 - 🧰 Automatizo **recon, enumeración y explotación** (Python · Bash) sobre **Kali**.
 - 📚 Construyo herramientas **auditables y reproducibles** (no cajas negras).
 - 🧩 Me interesa el *por qué* de una vulnerabilidad: la violación de una propiedad de seguridad, no el payload suelto.
-
-<br>
 
 ### 📫 Contacto
 
