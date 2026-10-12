@@ -52,18 +52,22 @@
 
 ## 🎯 Mi foco
 
-Me dedico al **pentesting web ofensivo**, con foco en **autenticación, autorización y APIs**, y en **automatizar** el ciclo completo (recon → explotación → reporte) con evidencia reproducible.
+Investigo la seguridad de aplicaciones web desde su comportamiento real: reconstruyo flujos, identifico supuestos sobre cómo debería funcionar el sistema y formulo hipótesis para comprobar dónde sus garantías de seguridad dejan de cumplirse.
 
-| Área | En qué trabajo |
-|---|---|
-| 🔐 **Autenticación y autorización** | OAuth/OIDC, SAML, JWT, MFA · **IDOR/BOLA**, control de acceso, escalada de privilegios |
-| 🌐 **Aplicaciones web** | OWASP Top 10 · APIs REST/GraphQL · lógica de negocio · XSS / SQLi / SSRF / deserialización |
-| 🛰️ **Recon y superficie** | Enumeración de subdominios, OSINT, dorks, descubrimiento de endpoints y parámetros |
-| ⚙️ **Automatización** | Pipelines en **Python · Bash**: recon, explotación y **generación de reportes** |
-| 🛡️ **Hardening e infra** | Benchmarks **CIS** (Fortinet · Sophos), auditoría de configuración y exposición |
-| 📡 **Redes** | Auditoría **WiFi** e infraestructura |
+Mi trabajo se centra en:
 
-> 🧭 Investigo **guiado por hipótesis**: entender el comportamiento → identificar el supuesto → falsarlo → modelar mejor el sistema.
+- **🔬 Investigación ofensiva:** análisis de comportamiento, reconstrucción de flujos, modelado de estados, identificación de invariantes y experimentación controlada para descubrir vulnerabilidades.
+- **🔐 Seguridad de aplicaciones y APIs:** autenticación, autorización, gestión de sesiones, OAuth/OIDC, SAML, JWT, IDOR/BOLA, escalada de privilegios y lógica de negocio.
+- **🧠 Análisis guiado por hipótesis:** transformar observaciones e inconsistencias en hipótesis verificables, diseñar pruebas mínimas que puedan refutarlas y actualizar el modelo del sistema según la evidencia.
+- **⚙️ Ingeniería de herramientas de seguridad:** desarrollo en Python y Bash para automatizar reconocimiento, enumeración, análisis, pruebas y generación de evidencia reproducible.
+- **🧩 Análisis de implementación:** relacionar endpoints, parámetros, código, modelos de datos y flujos de ejecución para inferir cómo funciona una aplicación y dónde pueden fallar sus controles.
+- **🛡️ Evaluación de seguridad y hardening:** auditoría de configuraciones, revisión de exposición y validación de controles mediante referencias como CIS Benchmarks.
+
+Mi objetivo no es acumular técnicas ni depender de payloads conocidos, sino comprender qué propiedad de seguridad debería mantenerse, qué supuesto permite que se rompa y qué evidencia demuestra la diferencia entre el comportamiento esperado y el real.
+
+**Método:** observar → modelar → formular hipótesis → experimentar → falsificar o corroborar → actualizar el modelo.
+
+⚠️ Realizo pruebas intrusivas únicamente con autorización y dentro del alcance definido.
 
 ---
 
