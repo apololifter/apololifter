@@ -16,7 +16,7 @@ Valoro la autonomía, el criterio propio y la mejora continua. También consider
 
 🎓 **Formación:** Ingeniería en Informática, en titulación (2027).
 
-🏅 **Certificaciones:** eJPTv2 · Burp Suite Certified Practitioner (BSCP) · Certified Red Team Professional (CRTP) · Sophos Certified Engineer.
+🏅 **Certificaciones:** eJPTv2 · Web Fundamentals (TryHackMe) · Sophos Certified Engineer · Vicarius Technical.
 
 💻 **Desarrollo:** Python · Bash · JavaScript · Git.
 
